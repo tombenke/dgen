@@ -44,7 +44,7 @@
     "expect": "^24.9.0",
     "istanbul": "^1.1.0-alpha.1",
     "jsdoc": "^3.6.3",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mocha-lcov-reporter": "^1.2.0",
     "pre-push": "^0.1.1",
     "rimraf": "^3.0.0"
